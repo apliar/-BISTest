@@ -1,0 +1,15 @@
+C:\Users\Apliar\source\repos\BISTest\BISTest\bin\Debug\net6.0\BISTest.exe
+C:\Users\Apliar\source\repos\BISTest\BISTest\bin\Debug\net6.0\BISTest.deps.json
+C:\Users\Apliar\source\repos\BISTest\BISTest\bin\Debug\net6.0\BISTest.runtimeconfig.json
+C:\Users\Apliar\source\repos\BISTest\BISTest\bin\Debug\net6.0\BISTest.dll
+C:\Users\Apliar\source\repos\BISTest\BISTest\bin\Debug\net6.0\ref\BISTest.dll
+C:\Users\Apliar\source\repos\BISTest\BISTest\bin\Debug\net6.0\BISTest.pdb
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.csproj.AssemblyReference.cache
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.AssemblyInfoInputs.cache
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.AssemblyInfo.cs
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.csproj.CoreCompileInputs.cache
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.dll
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\ref\BISTest.dll
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.pdb
+C:\Users\Apliar\source\repos\BISTest\BISTest\obj\Debug\net6.0\BISTest.genruntimeconfig.cache
